@@ -29,4 +29,21 @@ const projects = [
   // },
 
   // Anda bisa memasukkan project asli di atas.
-];
+];{
+  image: "nemu-kopi.jpg",
+  title: "Nemu Kopi",
+  category: "Huruf Timbul",
+  location: "Cikutra, Jawa Barat"
+}
+{
+  image: "bright-letter.jpg",
+  title: "Army Coffee",
+  category: "Huruf Timbul",
+  location: "Bandung, Jawa Barat"
+}
+{
+  image: "dustira.jpg",
+  title: "Dustira",
+  category: "Stiker",
+  location: "Cimahi, Jawa Barat"
+}
