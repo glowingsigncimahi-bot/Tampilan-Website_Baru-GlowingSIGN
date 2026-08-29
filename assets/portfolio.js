@@ -25,7 +25,7 @@ const projects = [
   },
 {
     image: "law-office.jpg",
-    title: "Biro Hukum ",
+    title: "Biro Hukum",
     category: "Huruf Timbul",
     location: "Bandung, Jawa Barat"
   },
@@ -34,6 +34,29 @@ const projects = [
     title: "Cloud kitchen",
     category: "Neon Sign",
     location: "Meruya, DKI Jakarta"
-  }
-
+  },
+{
+    image: "one's-closeup.jpg",
+    title: "One's Coffee",
+    category: "Huruf Timbul",
+    location: "Bandung, Jawa Barat"
+  },
+  {
+    image: "one's-closeup.jpg",
+    title: "Coffee Shop",
+    category: "Neon Box Acrylic",
+    location: "Bandung, DKI Jakarta"
+  },
+  {
+    image: "villa-and-hit.jpg",
+    title: "Neon Sign Villa",
+    category: "Neon Box Acrylic",
+    location: "Garut, Jawa Barat"
+  },
+  {
+    image: "wayfinding-hospital.jpg",
+    title: "Sign penunjuk arah",
+    category: "Wayfinding",
+    location: "Cimahi, Jawa Barat"
+  },
 ];
