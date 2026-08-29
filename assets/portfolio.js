@@ -64,5 +64,35 @@ const projects = [
     title: "Backlite Flexy",
     category: "Backlite",
     location: "Bandung, Jawa Barat"
+  },
+  {
+    image: "amanda-supermarket-information center.jpeg",
+    title: "Sign Infromation Center",
+    category: "Huruf Timbul",
+    location: "Bandung, Jawa Barat"
+  },
+  {
+    image: "amanda-supermarket-kitchen.jpeg",
+    title: "Sign Kitchen",
+    category: "Huruf Timbul",
+    location: "Bandung, Jawa Barat"
+  },
+  {
+    image: "amanda-supermarket-sushi.jpeg",
+    title: "Sign Sushi Area",
+    category: "huruf Timbul",
+    location: "Bandung, Jawa Barat"
+  },
+  {
+    image: "dokter-gigi.jpeg",
+    title: "Neon Sign Dokter Gigi Bpk Ferry",
+    category: "Neon Sign",
+    location: "Bandung, Jawa Barat"
+  },
+  {
+    image: "java-legal.jpeg",
+    title: "Logo Sign Firma Hukum",
+    category: "Neon Sign",
+    location: "Cibubur, Jawa Barat"
   }
 ];
