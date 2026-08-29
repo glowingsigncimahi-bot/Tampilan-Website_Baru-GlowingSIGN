@@ -22,10 +22,10 @@ const projects = [
   // GANTI / TAMBAHKAN FOTO PROJECT DI SINI.
   // Contoh aktif:
   // {
-  //   image: "project-01.jpg",
+  //   image: "nemu-kopi.jpg",
   //   title: "Nemu Kopi",
   //   category: "Huruf Timbul",
-  //   location: "Cimahi, Jawa Barat"
+  //   location: "Cikutra, Jawa Barat"
   // },
 
   // Anda bisa memasukkan project asli di atas.
