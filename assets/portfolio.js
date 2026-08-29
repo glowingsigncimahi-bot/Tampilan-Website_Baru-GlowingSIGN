@@ -42,7 +42,7 @@ const projects = [
     location: "Bandung, Jawa Barat"
   },
   {
-    image: "one's-closeup.jpg",
+    image: "one's-sign.jpg",
     title: "Coffee Shop",
     category: "Neon Box Acrylic",
     location: "Bandung, DKI Jakarta"
