@@ -80,7 +80,7 @@ const projects = [
   {
     image: "amanda-supermarket-sushi.jpeg",
     title: "Sign Sushi Area",
-    category: "huruf Timbul",
+    category: "Huruf Timbul",
     location: "Bandung, Jawa Barat"
   },
   {
