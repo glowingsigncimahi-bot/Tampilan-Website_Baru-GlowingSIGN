@@ -59,4 +59,10 @@ const projects = [
     category: "Wayfinding",
     location: "Cimahi, Jawa Barat"
   },
+  {
+    image: "Backlite-flexy-erapone.jpeg",
+    title: "Backlite Flexy",
+    category: "Backlite",
+    location: "Bandung, Jawa Barat"
+  }
 ];
