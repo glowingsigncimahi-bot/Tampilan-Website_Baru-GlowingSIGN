@@ -29,7 +29,9 @@ const projects = [
   // },
 
   // Anda bisa memasukkan project asli di atas.
-];{
+];
+
+{
   image: "nemu-kopi.jpg",
   title: "Nemu Kopi",
   category: "Huruf Timbul",
