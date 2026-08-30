@@ -15,3 +15,37 @@ footer{border-top:1px solid var(--line);padding:65px 32px 25px}.footer-main{max-
 .reveal{opacity:0;transform:translateY(25px);transition:opacity .7s ease,transform .7s ease}.reveal.seen{opacity:1;transform:none}.delay{transition-delay:.12s}
 @media(max-width:900px){.nav{display:none}.nav.open{display:flex;position:absolute;top:82px;left:0;right:0;padding:20px 32px;background:#0b0b0c;border-bottom:1px solid var(--line);flex-direction:column}.menu-btn{display:block}.header-cta{display:none}.hero{grid-template-columns:1fr;padding-top:65px}.hero-visual{min-height:430px}.service-grid,.steps{grid-template-columns:repeat(2,1fr)}.portfolio-grid{grid-template-columns:repeat(2,1fr)}.section-head{display:block}.section-head>p{margin-top:25px}.cta-section{margin:0 20px 80px}}
 @media(max-width:600px){.site-header{padding:0 18px}.hero,.section{padding-left:20px;padding-right:20px}.hero{padding-top:50px}.hero h1{font-size:58px}.hero-meta{gap:18px;justify-content:space-between}.hero-visual{min-height:360px}.hero-card{width:92%}.hero-sign span:first-child{font-size:32px}.hero-sign strong{font-size:72px}.service-grid,.steps,.portfolio-grid{grid-template-columns:1fr}.portfolio-item,.portfolio-item:nth-child(4n){aspect-ratio:4/3}.section{padding-top:90px}.cta-section{margin-left:20px;margin-right:20px;padding:45px 25px;display:block}.cta-section .btn{margin-top:30px}.footer-main{grid-template-columns:1fr;padding:0 20px}.footer-bottom{margin-left:20px;margin-right:20px;display:block}.footer-bottom span{display:block;margin-top:7px}.lightbox{padding:20px}.lightbox-nav{font-size:45px}.lightbox-close{font-size:35px}}
+.wa-float {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: #25D366;
+    color: #FFF;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+    z-index: 9999;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.wa-float:hover {
+    transform: scale(1.1);
+    background-color: #1ebe57;
+}
+
+@media (max-width: 768px) {
+    .wa-float {
+        bottom: 20px;
+        right: 20px;
+        width: 50px;
+        height: 50px;
+    }
+    .wa-float svg {
+        width: 28px;
+        height: 28px;
+    }
+}
